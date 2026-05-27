@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Términos Generales del Servicio de Avedore Cloud
+title: Términos Generales del Servicio
 ---
 
 **Avedore Cloud**  
