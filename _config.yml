@@ -1,5 +1,6 @@
 theme: minima
-show_excerpts: false
+title: TGS
+
 minima:
   skin: dark
 
