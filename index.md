@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Términos Generales del Servicio de Avedore Cloud
+title: legal.avedore.eu
 ---
 
 # Términos Generales del Servicio de Avedore Cloud
