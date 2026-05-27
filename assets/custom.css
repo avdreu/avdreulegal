@@ -1,0 +1,13 @@
+body {
+  background: #0B0F1A;
+  color: #E5E7EB;
+}
+
+a {
+  color: #4DA3FF;
+}
+
+.site-header, .site-footer {
+  background: #0B0F1A;
+  border-color: #1F2937;
+}
