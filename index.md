@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="/assets/custom.css">
 
+
 ---
 layout: page
 title: legal.avedore.eu
