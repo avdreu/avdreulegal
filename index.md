@@ -12,7 +12,6 @@ Los presentes Términos Generales del Servicio de Avedore Cloud regulan el uso d
 
 ---
 
-
 ## Índice
 
 1. Servicios y planes  
