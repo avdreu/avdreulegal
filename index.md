@@ -1,9 +1,7 @@
 ---
 layout: page
-title: legal.avedore.eu
+title: Términos Generales del Servicio de Avedore Cloud
 ---
-
-# Términos Generales del Servicio de Avedore Cloud
 
 **Avedore Cloud**  
 Última actualización: 27 de mayo de 2026
