@@ -26,7 +26,7 @@ Los presentes Términos Generales del Servicio de Avedore Cloud regulan el uso d
 12. Jurisdicción  
 
 ---
-
+<br>
 ## 1. Servicios y planes
 
 Avedore Cloud ofrece servicios de infraestructura digital incluyendo servidores virtuales (VPS/VDS), hosting de bots, servidores de videojuegos y servicios asociados.
