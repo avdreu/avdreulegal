@@ -1,9 +1,14 @@
-# Términos Generales del Servicio (de Avedore Cloud)
+---
+layout: page
+title: Términos Generales del Servicio de Avedore Cloud
+---
+
+# Términos Generales del Servicio de Avedore Cloud
 
 **Avedore Cloud**  
 Última actualización: 27 de mayo de 2026
 
-Los presentes Términos Generales del Servicio (de Avedore Cloud) regulan el uso de los servicios proporcionados por Avedore Cloud. Al contratar cualquier servicio, el Cliente acepta íntegramente estas condiciones.
+Los presentes Términos Generales del Servicio de Avedore Cloud regulan el uso de los servicios proporcionados por Avedore Cloud. Al contratar cualquier servicio, el Cliente acepta íntegramente estas condiciones.
 
 ---
 
@@ -30,9 +35,9 @@ Avedore Cloud ofrece servicios de infraestructura digital incluyendo servidores 
 
 Los planes disponibles son:
 
-- **Avedore S**: recursos dedicados  
-- **Avedore D**: recursos compartidos optimizados  
-- **Avedore G**: alta capacidad y escalabilidad  
+- **Avedore S (server)**: recursos dedicados  
+- **Avedore D (droid)**: recursos compartidos optimizados  
+- **Avedore G (gaming)**: alta capacidad y escalabilidad  
 
 Las características específicas de cada plan se definen en el momento de contratación.
 
