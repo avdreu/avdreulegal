@@ -41,8 +41,6 @@ Los planes disponibles son:
 
 Las características específicas de cada plan se definen en el momento de contratación.
 
----
-
 ## 2. Uso permitido y prohibido
 
 Se permite el uso del servicio para actividades legales como hosting de aplicaciones, bots y servidores de juegos.
@@ -57,15 +55,11 @@ Queda estrictamente prohibido:
 - Escaneo o explotación de redes externas  
 - Incumplimiento de ToS de terceros (Discord, Minecraft, etc.)  
 
----
-
 ## 3. Pagos y facturación
 
 Los servicios se pagan por adelantado según tarifas publicadas o acordadas.
 
 El impago puede resultar en suspensión automática del servicio tras el periodo de gracia correspondiente.
-
----
 
 ## 4. Reembolsos
 
@@ -74,8 +68,6 @@ Los reembolsos solo se concederán en caso de fallo grave del servicio imputable
 Se considerará fallo grave cuando exista una imposibilidad de prestación del servicio superior al 60% del tiempo contratado.
 
 No se concederán reembolsos por mal uso, suspensión por incumplimiento o errores del Cliente.
-
----
 
 ## 5. Backups y datos
 
@@ -89,8 +81,6 @@ Cuando existan backups disponibles:
 
 Avedore Cloud no se hace responsable de pérdida de datos bajo ninguna circunstancia.
 
----
-
 ## 6. Uso justo (Fair Use)
 
 En los planes D y G se aplica política de uso justo para garantizar estabilidad del sistema.
@@ -103,8 +93,6 @@ Se considera uso abusivo:
 - Saturación de red o almacenamiento  
 - Impacto negativo en la infraestructura  
 
----
-
 ## 7. Abuso del sistema
 
 Queda prohibido:
@@ -116,15 +104,11 @@ Queda prohibido:
 
 Cualquier infracción puede resultar en suspensión inmediata del servicio.
 
----
-
 ## 8. Soporte y mantenimiento
 
 El soporte técnico opera en horario fijo definido en los Términos Generales del Servicio (de Avedore Cloud).
 
 Avedore Cloud puede realizar mantenimientos programados o espontáneos de corta duración (aprox. 30 minutos), principalmente en el panel o infraestructura interna.
-
----
 
 ## 9. Retención de datos
 
@@ -132,15 +116,11 @@ Tras la cancelación del servicio, los datos se eliminarán en un plazo de 3 dí
 
 Durante este periodo puede existir una ventana limitada de recuperación, sin garantía.
 
----
-
 ## 10. Responsabilidad
 
 Avedore Cloud no se responsabiliza de pérdidas indirectas, interrupciones externas o pérdida de datos causada por el Cliente.
 
 La responsabilidad máxima se limita al importe abonado en el último mes de servicio.
-
----
 
 ## 11. Suspensión y cancelación
 
@@ -153,12 +133,8 @@ Avedore Cloud puede suspender o cancelar servicios en caso de:
 
 Avedore Cloud se reserva el derecho de rechazar clientes o servicios en cualquier momento.
 
----
-
 ## 12. Jurisdicción
 
 Estos Términos Generales del Servicio (de Avedore Cloud) se rigen por la legislación española y europea.
 
 Cualquier disputa será resuelta en los tribunales de Barcelona, España.
-
----
